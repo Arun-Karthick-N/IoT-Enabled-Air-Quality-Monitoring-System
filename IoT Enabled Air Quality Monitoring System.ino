@@ -14,8 +14,8 @@ float b = 0.7165;
 float R0 = 3.12;   
 
 WiFiClient client;
-long myChannelNumber = 2482135; 
-const char myWriteAPIKey[] = "8LOV7URQYJ18Y60J";
+long myChannelNumber = ********; 
+const char myWriteAPIKey[] = "***************";
 
 void setup() {
   Serial.begin(9600);
